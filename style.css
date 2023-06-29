@@ -1,0 +1,41 @@
+body{
+    height: 600px;
+    font-weight: bold;
+}
+p{
+    font-size: larger ;
+    font-weight: bold;
+}
+#i_am{
+    margin: 20px 0 20px 5px;
+
+}
+#male{
+    margin: 10px 0 0 10px;
+}
+#female{
+    margin: 0 0 0 10px;
+}
+#frog{
+    margin: 0 0 20px 10px;
+}
+#interested{
+    
+    margin: 0 0 20px 5px;
+}
+#man{
+    margin: 10px 0 0 10px;
+}
+#woman{
+    margin: 0 0 0 10px;
+}
+#eat{
+    margin: 0 0 0 10px;
+}
+img{
+    height: 190px;
+    width: 190px;
+    float: right;
+    margin: 5px 900px 10px 10px;
+
+}
